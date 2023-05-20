@@ -1,0 +1,5 @@
+1. The User enters text into the text field and clicks the submit button.
+2. The Page, upon receiving the submit action, sends a POST request to the Server, including the content of the note.
+3. The Server processes the POST request, creates a new note based on the received content, and stores it in the appropriate location (e.g., a database).
+4. The Server responds to the Page, indicating the successful creation of the note.
+5. The Page displays a confirmation message to the User, indicating that the note creation was successful.
