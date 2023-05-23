@@ -1,0 +1,3 @@
+1. The browser sends a GET request to retrieve the single-page app (SPA) from the URL "https://studies.cs.helsinki.fi/exampleapp/spa". 
+2. The SPA includes a 'save' button.
+3. When the user clicks the 'save' button, the browser triggers a POST request to the NotesApp. 4. The NotesApp processes the request and stores the note in the Database.
